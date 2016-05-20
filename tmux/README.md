@@ -314,3 +314,10 @@ font.
 ![image](https://cloud.githubusercontent.com/assets/553208/10802432/26341fbe-7dbd-11e5-9be9-585348fe3c2c.png)
 
 [font linking]: https://msdn.microsoft.com/en-us/goglobal/bb688134.aspx
+
+
+Features
+--------
+https://github.com/tmux-plugins/tmux-resurrect
+
+restore
